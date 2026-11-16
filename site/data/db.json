@@ -1,0 +1,459 @@
+{
+  "settings": {
+    "phone": "+91 8858334842",
+    "phoneTel": "+918858334842",
+    "whatsapp": "918858334842",
+    "email": "support@nationalglobalacademy.com",
+    "address": [
+      "Bhutani Alphathum",
+      "Sector 90",
+      "Noida, Uttar Pradesh 201304"
+    ],
+    "mapQuery": "Bhutani Alphathum, Sector 90, Noida, Uttar Pradesh 201304",
+    "hours": "Mon to Sat, 10:00 AM to 6:00 PM",
+    "announcement": "Upcoming Batch | Limited Seats Left | Only {seats} Seats Left | Enquire Now | Reserve Your Seat"
+  },
+  "batches": [
+    {
+      "id": "monthly",
+      "name": "Monthly Batch",
+      "startDate": "",
+      "seatsTotal": 30,
+      "seatsLeft": 12
+    }
+  ],
+  "stats": [
+    {
+      "value": "4",
+      "label": "Career Pathways"
+    },
+    {
+      "value": "10+",
+      "label": "Years"
+    },
+    {
+      "value": "Monthly",
+      "label": "Batch Intakes"
+    },
+    {
+      "value": "Family",
+      "label": "Inclusive Counselling"
+    }
+  ],
+  "home": {
+    "heroEyebrow": "CRUISE, MERCHANT NAVY, AVIATION, HOSPITALITY",
+    "heroTitle": "Turn your ambition into a career without borders.",
+    "heroText": "Prepare for cruise, Merchant Navy, aviation or hospitality pathways with structured training, practical guidance and an admission process your family can understand.",
+    "logosHeading": "Explore careers across global industries.",
+    "industriesHeading": "Choose an industry to see its courses.",
+    "whyTitle": "Training that prepares you for the decision, not just the interview.",
+    "whyPoints": [
+      "Structured training across all four industries with practical guidance.",
+      "Monthly batch intakes.",
+      "Route first counselling, aptitude, education and goals compared before suggesting a course.",
+      "Parents included at every step.",
+      "Complete cost sheet shared in writing during counselling, before enrolment.",
+      "Interview and workplace readiness, communication, grooming, service habits, realistic expectations.",
+      "Hands on preparation, food and beverage, guest service, housekeeping, onboard operations.",
+      "Certification and documentation guidance, documents, steps after training.",
+      "Interview opportunities with cruise lines and shipping employers, with preparation.",
+      "Admission support from first enquiry to seat confirmation, no pressure to enrol."
+    ],
+    "steps": [
+      {
+        "n": "01",
+        "title": "Tell us where you stand.",
+        "text": "Share your background and goals on a free counselling call."
+      },
+      {
+        "n": "02",
+        "title": "Get your route.",
+        "text": "We compare your options and recommend one clear pathway."
+      },
+      {
+        "n": "03",
+        "title": "Start your batch.",
+        "text": "Confirm your seat and join the next monthly batch."
+      }
+    ],
+    "faqs": [
+      {
+        "q": "What is the total cost, beyond the course fee?",
+        "a": "We do not publish fees on the website. Your counsellor will share the complete cost sheet, tuition, registration, documents, uniform, accommodation, food, examination and travel where applicable, in writing during your free counselling call, before you enrol."
+      },
+      {
+        "q": "Is life onboard safe, and is it suitable for girls?",
+        "a": "Ships are structured, supervised workplaces with clear routines and support onboard. During counselling we discuss daily life, safety and what to expect, so you and your family can decide with full information."
+      },
+      {
+        "q": "What is the difference between Cruise Line and Merchant Navy careers?",
+        "a": "Cruise line careers are guest service and hospitality roles aboard passenger ships. Merchant Navy careers are technical and deck roles aboard commercial ships. Both can lead to global work, the right fit depends on your aptitude and goals, which is what the counselling call is for."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "ABOUT US",
+    "title": "Shaping global careers with structured training and family first guidance.",
+    "intro": "National Global Academy is a training and career guidance institute in Noida. We help students after Class 10 and Class 12 understand cruise, Merchant Navy, aviation and hospitality pathways before they commit. Every counselling call includes parents, and every course is explained in writing.",
+    "vision": "A future where every student from a small town can build a respected global career at sea, in the air and across hospitality, with the knowledge and confidence to choose well.",
+    "mission": "Each day we guide students and their families through honest counselling, structured training and clear steps from first enquiry to seat confirmation."
+  },
+  "contactFaqs": [
+    {
+      "q": "Can I visit the academy before applying?",
+      "a": "Yes, visits are by appointment so an advisor and the relevant faculty member can make time for your questions. Visiting hours are Monday to Saturday, 10:00 AM to 6:00 PM. Book through the counselling form or on WhatsApp."
+    },
+    {
+      "q": "Can the counselling call include my parents?",
+      "a": "Yes, parents are welcome on every counselling call and at every step. We discuss course options and documents with the family, not just the student."
+    },
+    {
+      "q": "What should I bring to counselling?",
+      "a": "Just your latest qualification details and your questions. If you already have documents like mark sheets or an ID, keep them handy, your counsellor will tell you exactly what is needed next."
+    },
+    {
+      "q": "How quickly will admissions respond?",
+      "a": "Within one working day of your enquiry. If you message on WhatsApp, you will usually hear back the same day."
+    }
+  ],
+  "courses": [
+    {
+      "slug": "cruise-career-fast-track-program",
+      "title": "Cruise Career Fast Track Program",
+      "duration": "30 Days",
+      "durationDays": 30,
+      "industry": "cruise",
+      "description": "Interview training and international cruise interview preparation, e-learning and detailed job profile guidance.",
+      "includes": [
+        "Interview training",
+        "100% Placement Support",
+        "E-learning",
+        "International cruise interview preparation",
+        "Detailed job profile guidance"
+      ],
+      "poster": "/assets/courses/cruise-career-fast-track-program.jpg",
+      "certificate": "",
+      "order": 1,
+      "trending": false,
+      "hidden": false
+    },
+    {
+      "slug": "cruise-career-professional-program",
+      "title": "Cruise Career Professional Program",
+      "duration": "2 Months",
+      "durationDays": 60,
+      "industry": "cruise",
+      "description": "E-learning exam and exit exam, resume preparation, personalized interview preparation, choice of department.",
+      "includes": [
+        "E-Learning Exam plus Exit Exam",
+        "Professional Resume by Industry Experts",
+        "30 Days Personalized Interview Preparation",
+        "100% Job Support Opportunity",
+        "Detailed Job Profile Guidance",
+        "Choose Your Preferred Department: Food and Beverage Service, Housekeeping, or Kitchen Operations (Culinary)"
+      ],
+      "poster": "/assets/courses/cruise-career-professional-program.jpg",
+      "certificate": "",
+      "order": 2,
+      "trending": false,
+      "hidden": false
+    },
+    {
+      "slug": "gp-rating",
+      "title": "GP Rating",
+      "duration": "6 Months",
+      "durationDays": 180,
+      "industry": "merchant-navy",
+      "description": "Industry level experience training, global career opportunities.",
+      "includes": [
+        "100% Sponsorship",
+        "100% Placement Support (Domestic and International)",
+        "Global Career Opportunities",
+        "Industry Level Experience Training"
+      ],
+      "poster": "/assets/courses/gp-rating.jpg",
+      "certificate": "",
+      "order": 3,
+      "trending": false,
+      "hidden": false
+    },
+    {
+      "slug": "dchm",
+      "title": "Diploma in Cruise and Hospitality Management (DCHM)",
+      "duration": "12 Months",
+      "durationDays": 365,
+      "industry": "cruise",
+      "description": "Hospitality principles, guest relations, food and beverage service, professional interview preparation, six months industrial training with a stipend.",
+      "includes": [
+        "Restaurant Service",
+        "Bar Service",
+        "Housekeeping Certification Course",
+        "Professional Interview Preparation",
+        "Detailed Job Profile Guidance",
+        "6 Month Industrial Training (With Stipend)",
+        "100% Job Placement Support (Domestic and International)",
+        "Principles of Hospitality",
+        "Guest Relations and Complaint Mgmt.",
+        "Food and Beverage Service",
+        "Hotel and Restaurant Operations",
+        "Professional Etiquette and Dining"
+      ],
+      "poster": "/assets/courses/dchm.jpg",
+      "certificate": "",
+      "order": 4,
+      "trending": true,
+      "hidden": false
+    },
+    {
+      "slug": "diploma-in-aviation",
+      "title": "Diploma in Aviation",
+      "duration": "12 Months",
+      "durationDays": 365,
+      "industry": "aviation",
+      "description": "Civil aviation, airport terminal operations, aviation regulations, cabin crew mock-up training and an on site airport visit.",
+      "includes": [
+        "Civil Aviation and Structure",
+        "Airport Terminal Operations",
+        "Baggage and Cargo Management",
+        "Safety and Security Procedures",
+        "Global Aviation Regulations",
+        "Cabin Crew Mock-up Training",
+        "Grooming and Etiquette Workshops",
+        "On site Airport Visit",
+        "Role playing Exercises"
+      ],
+      "poster": "/assets/courses/diploma-in-aviation.jpg",
+      "certificate": "",
+      "order": 5,
+      "trending": true,
+      "hidden": false
+    },
+    {
+      "slug": "diploma-in-hotel-management",
+      "title": "Diploma in Hotel Management",
+      "duration": "12 Months",
+      "durationDays": 365,
+      "industry": "hospitality",
+      "description": "Professional grooming, communication skills, public speaking, resume building, mock interviews, industry interaction programs.",
+      "includes": [
+        "Professional Grooming and Styling",
+        "Confidence and Public Speaking",
+        "Body Language and Posture",
+        "Advanced Communication Skills",
+        "Resume Building Workshops",
+        "Mock Interview Sessions",
+        "Industry Interaction Programs",
+        "Placement Assistance",
+        "Career Counseling"
+      ],
+      "poster": "/assets/courses/diploma-in-hotel-management.jpg",
+      "certificate": "",
+      "order": 6,
+      "trending": false,
+      "hidden": false
+    }
+  ],
+  "industries": [
+    {
+      "id": "cruise-industry",
+      "title": "Cruise Industry",
+      "trending": true,
+      "image": "/assets/industries/cruise.jpg",
+      "video": "",
+      "link": "/courses/all/#cruise-industry",
+      "items": [
+        {
+          "name": "DCHM",
+          "duration": "12 Months"
+        },
+        {
+          "name": "Advanced Certificate in Cruise Hospitality",
+          "duration": ""
+        },
+        {
+          "name": "Food and Beverage and Housekeeping",
+          "duration": "8 Months"
+        },
+        {
+          "name": "Certification in Cruise Hospitality",
+          "duration": ""
+        },
+        {
+          "name": "Food and Beverage Operations",
+          "duration": "6 Months"
+        },
+        {
+          "name": "STCW Fast Track",
+          "duration": "45 Days"
+        }
+      ]
+    },
+    {
+      "id": "merchant-navy",
+      "title": "Merchant Navy",
+      "trending": false,
+      "image": "/assets/industries/merchant-navy.jpg",
+      "video": "",
+      "link": "/courses/all/#merchant-navy",
+      "items": [
+        {
+          "name": "GP Rating",
+          "duration": "6 Months"
+        },
+        {
+          "name": "DNS",
+          "duration": ""
+        },
+        {
+          "name": "B.Sc Nautical Science",
+          "duration": "3 Years"
+        },
+        {
+          "name": "B.Tech Marine Engineering",
+          "duration": "4 Years"
+        }
+      ]
+    },
+    {
+      "id": "aviation",
+      "title": "Aviation",
+      "trending": true,
+      "image": "/assets/industries/aviation.jpg",
+      "video": "",
+      "link": "/courses/all/#aviation",
+      "items": [
+        {
+          "name": "Cabin Crew Training",
+          "duration": ""
+        },
+        {
+          "name": "Ground Staff and Airport Operations",
+          "duration": ""
+        },
+        {
+          "name": "Diploma in Aviation and Hospitality",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "id": "hospitality",
+      "title": "Hospitality",
+      "trending": false,
+      "image": "/assets/industries/hospitality.jpg",
+      "video": "",
+      "link": "/courses/all/#hospitality",
+      "items": [
+        {
+          "name": "Diploma in Hotel Management",
+          "duration": ""
+        },
+        {
+          "name": "Food and Beverage Service",
+          "duration": ""
+        },
+        {
+          "name": "Housekeeping Operations",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "name": "MSC Cruises",
+      "file": "msc.svg"
+    },
+    {
+      "name": "Royal Caribbean",
+      "file": "royal-caribbean.svg"
+    },
+    {
+      "name": "Carnival Cruise Line",
+      "file": "carnival.svg"
+    },
+    {
+      "name": "Norwegian Cruise Line",
+      "file": "norwegian.svg"
+    },
+    {
+      "name": "Costa Cruises",
+      "file": "costa.svg"
+    },
+    {
+      "name": "Disney Cruise Line",
+      "file": "disney.svg"
+    },
+    {
+      "name": "Princess Cruises",
+      "file": "princess.svg"
+    },
+    {
+      "name": "Celebrity Cruises",
+      "file": "celebrity.svg"
+    },
+    {
+      "name": "Holland America Line",
+      "file": "holland-america.svg"
+    },
+    {
+      "name": "Viking Cruises",
+      "file": "viking.svg"
+    },
+    {
+      "name": "Cunard",
+      "file": "cunard.svg"
+    },
+    {
+      "name": "P&O Cruises",
+      "file": "p-and-o.svg"
+    },
+    {
+      "name": "Marriott",
+      "file": "marriott.svg"
+    },
+    {
+      "name": "Hilton",
+      "file": "hilton.svg"
+    },
+    {
+      "name": "Air India",
+      "file": "air-india.svg"
+    },
+    {
+      "name": "IndiGo",
+      "file": "indigo.svg"
+    },
+    {
+      "name": "Emirates",
+      "file": "emirates.svg"
+    },
+    {
+      "name": "Maersk",
+      "file": "maersk.svg"
+    }
+  ],
+  "posts": [],
+  "testimonials": [],
+  "enquiries": [
+    {
+      "id": "af7138f8-c2b9-4c52-bc4f-ecd616783d5e",
+      "createdAt": "2026-11-16T20:53:37.601Z",
+      "source": "/contact/",
+      "status": "New",
+      "notes": "",
+      "fields": {
+        "name": "Test Student",
+        "age": "18",
+        "location": "Lucknow, UP",
+        "qualification": "12th Science",
+        "experience": "Fresher",
+        "stcw": "No",
+        "mobile": "9876543210",
+        "email": "",
+        "interest": "Cruise Industry",
+        "help": "test"
+      }
+    }
+  ]
+}
